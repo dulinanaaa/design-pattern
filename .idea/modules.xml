@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.1-factory-method/1.1-factory-method.iml" filepath="$PROJECT_DIR$/1.1-factory-method/1.1-factory-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.2-abstract-factory/1.2-abstract-factory.iml" filepath="$PROJECT_DIR$/1.2-abstract-factory/1.2-abstract-factory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1.3-builder/1.3-builder.iml" filepath="$PROJECT_DIR$/1.3-builder/1.3-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.1-builder/2.1-builder.iml" filepath="$PROJECT_DIR$/2.1-builder/2.1-builder.iml" />
     </modules>
   </component>
 </project>

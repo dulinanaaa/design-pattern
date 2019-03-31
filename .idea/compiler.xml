@@ -9,13 +9,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="1.1-factory-method" />
         <module name="1.2-abstract-factory" />
-        <module name="1.3-builder" />
+        <module name="2.1-builder" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="1.1-factory-method" target="1.8" />
       <module name="1.2-abstract-factory" target="1.8" />
-      <module name="1.3-builder" target="1.5" />
+      <module name="2.1-builder" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
