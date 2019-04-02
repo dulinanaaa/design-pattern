@@ -10,12 +10,14 @@
         <module name="1.1-factory-method" />
         <module name="1.2-abstract-factory" />
         <module name="2.1-builder" />
+        <module name="3.1-prototype" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="1.1-factory-method" target="1.8" />
       <module name="1.2-abstract-factory" target="1.8" />
       <module name="2.1-builder" target="1.8" />
+      <module name="3.1-prototype" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
