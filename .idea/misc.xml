@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/03-builder/pom.xml" />
         <option value="$PROJECT_DIR$/04-prototype/pom.xml" />
         <option value="$PROJECT_DIR$/06-adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/08-composite/pom.xml" />
       </list>
     </option>
   </component>

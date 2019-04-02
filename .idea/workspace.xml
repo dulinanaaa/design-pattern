@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72052377-2c65-4570-803c-4e27ce57c026" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07-bridge/07-bridge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-bridge/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-bridge/src/main/java/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-bridge/src/main/java/color/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-bridge/src/main/java/color/GreenColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-bridge/src/main/java/color/RedColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-bridge/src/main/java/shape/CircleShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-bridge/src/main/java/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-bridge/src/main/java/shape/SquareShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-composite/08-composite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-composite/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-composite/src/main/java/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-composite/src/main/java/company/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-composite/src/main/java/company/Company1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-composite/src/main/java/company/Dept1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-composite/src/main/java/company/Dept2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-factory-method/01-factory-method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01-factory-method/01-factory-method.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-abstract-factory/02-abstract-factory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/02-abstract-factory.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-prototype/04-prototype.iml" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/04-prototype.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-adapter/06-adapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/06-adapter/06-adapter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-bridge/07-bridge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/07-bridge/07-bridge.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/1.1-factory-method/target/" />
@@ -33,6 +29,7 @@
     <ignored path="$PROJECT_DIR$/06-adapter/target/" />
     <ignored path="$PROJECT_DIR$/07-bridge/target/" />
     <ignored path="$PROJECT_DIR$/02-abstract-factory/target/" />
+    <ignored path="$PROJECT_DIR$/08-composite/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,87 +53,11 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="design-pattern" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="197">
-                <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/shape/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/shape/CircleShape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/shape/SquareShape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/color/GreenColor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/TestDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/color/RedColor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/color/Color.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,12 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.1-factory-method/src/main/java/product/SquareShape.java" />
-        <option value="$PROJECT_DIR$/1.1-factory-method/src/main/java/product/CircleShape.java" />
-        <option value="$PROJECT_DIR$/1.1-factory-method/src/main/java/factory/Factory.java" />
-        <option value="$PROJECT_DIR$/1.1-factory-method/src/main/java/factory/CircleFactory.java" />
-        <option value="$PROJECT_DIR$/1.1-factory-method/src/main/java/factory/SquareFactory.java" />
-        <option value="$PROJECT_DIR$/1.1-factory-method/src/main/java/TestDemo.java" />
         <option value="$PROJECT_DIR$/1.2-abstract-factory/pom.xml" />
         <option value="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/Shape.java" />
         <option value="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/Element.java" />
@@ -194,7 +109,6 @@
         <option value="$PROJECT_DIR$/03-builder/pom.xml" />
         <option value="$PROJECT_DIR$/04-prototype/pom.xml" />
         <option value="$PROJECT_DIR$/06-adapter/pom.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/07-bridge/pom.xml" />
         <option value="$PROJECT_DIR$/07-bridge/src/main/java/color/Color.java" />
         <option value="$PROJECT_DIR$/07-bridge/src/main/java/shape/Shape.java" />
@@ -203,6 +117,13 @@
         <option value="$PROJECT_DIR$/07-bridge/src/main/java/color/RedColor.java" />
         <option value="$PROJECT_DIR$/07-bridge/src/main/java/color/GreenColor.java" />
         <option value="$PROJECT_DIR$/07-bridge/src/main/java/TestDemo.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/08-composite/pom.xml" />
+        <option value="$PROJECT_DIR$/08-composite/src/main/java/company/Company.java" />
+        <option value="$PROJECT_DIR$/08-composite/src/main/java/company/Dept1.java" />
+        <option value="$PROJECT_DIR$/08-composite/src/main/java/company/Dept2.java" />
+        <option value="$PROJECT_DIR$/08-composite/src/main/java/company/Company1.java" />
+        <option value="$PROJECT_DIR$/08-composite/src/main/java/TestDemo.java" />
       </list>
     </option>
   </component>
@@ -247,35 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07-bridge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07-bridge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07-bridge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07-bridge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -283,7 +176,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554189423746" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554196690243" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/06-adapter" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
@@ -305,26 +198,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDemo (2)">
+  <component name="RunManager" selected="Application.TestDemo (1)">
+    <configuration name="TestDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <module name="08-composite" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="director.TestDemo" />
       <module name="03-builder" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="director.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDemo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TestDemo" />
-      <module name="04-prototype" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDemo (1)" />
         <item itemvalue="Application.TestDemo (2)" />
         <item itemvalue="Application.TestDemo" />
         <item itemvalue="Application.TestDemo (5)" />
         <item itemvalue="Application.TestDemo (4)" />
-        <item itemvalue="Application.TestDemo (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -424,28 +311,27 @@
       <workItem from="1554028762951" duration="279000" />
       <workItem from="1554078645233" duration="4439000" />
       <workItem from="1554164253659" duration="8327000" />
-      <workItem from="1554185564294" duration="3163000" />
+      <workItem from="1554185564294" duration="8493000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21784000" />
+    <option name="totallyTimeSpent" value="27114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20976394" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990619" visible="true" weight="0.20976394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.50093806" side_tool="true" weight="0.20976394" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32912844" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32798165" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.23279816" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -491,27 +377,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/product/SquareShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/product/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/factory/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/factory/CircleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -625,23 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-builder/03-builder.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-builder/src/main/java/director/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -807,27 +655,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="197">
-            <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/color/Color.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/shape/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -859,10 +690,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/03-builder/src/main/java/director/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="242">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-builder/03-builder.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-bridge/src/main/java/shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-composite/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-composite/src/main/java/company/Dept2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-composite/src/main/java/company/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="67" selection-start-line="67" selection-end-line="67" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-composite/src/main/java/company/Dept1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-composite/src/main/java/company/Company1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-composite/src/main/java/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -921,7 +834,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>06-adapter</last-edited>
+          <last-edited>03-builder</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
