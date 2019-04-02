@@ -2,6 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72052377-2c65-4570-803c-4e27ce57c026" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-adapter/06-adapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-adapter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-adapter/src/main/java/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-adapter/src/main/java/adapter/Adapter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-adapter/src/main/java/adapter/Adapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-adapter/src/main/java/earphone/Earphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-adapter/src/main/java/earphone/NewEarphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-adapter/src/main/java/earphone/OldEarphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1-factory-method/1.1-factory-method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01-factory-method/01-factory-method.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1-factory-method/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-factory-method/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1-factory-method/src/main/java/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-factory-method/src/main/java/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1-factory-method/src/main/java/factory/CircleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-factory-method/src/main/java/factory/CircleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1-factory-method/src/main/java/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-factory-method/src/main/java/factory/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1-factory-method/src/main/java/factory/SquareFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-factory-method/src/main/java/factory/SquareFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1-factory-method/src/main/java/product/CircleShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-factory-method/src/main/java/product/CircleShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1-factory-method/src/main/java/product/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-factory-method/src/main/java/product/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1-factory-method/src/main/java/product/SquareShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-factory-method/src/main/java/product/SquareShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/1.2-abstract-factory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/02-abstract-factory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/src/main/java/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/factory/CircleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/src/main/java/factory/CircleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/src/main/java/factory/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/factory/SquareFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/src/main/java/factory/SquareFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/CircleElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/src/main/java/product/CircleElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/CircleShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/src/main/java/product/CircleShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/src/main/java/product/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/src/main/java/product/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/SquareElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/src/main/java/product/SquareElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/SquareShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/src/main/java/product/SquareShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/target/classes/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/target/classes/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/target/classes/factory/CircleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/target/classes/factory/CircleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/target/classes/factory/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/target/classes/factory/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/target/classes/factory/SquareFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/target/classes/factory/SquareFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/target/classes/product/CircleElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/target/classes/product/CircleElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/target/classes/product/CircleShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/target/classes/product/CircleShape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/target/classes/product/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/target/classes/product/Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/target/classes/product/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/target/classes/product/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/target/classes/product/SquareElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/target/classes/product/SquareElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2-abstract-factory/target/classes/product/SquareShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-abstract-factory/target/classes/product/SquareShape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1-builder/2.1-builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/03-builder/03-builder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1-builder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-builder/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1-builder/src/main/java/builder/CircleBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-builder/src/main/java/builder/CircleBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1-builder/src/main/java/director/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-builder/src/main/java/director/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1-builder/src/main/java/product/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-builder/src/main/java/product/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1-builder/src/main/java/product/Coor.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-builder/src/main/java/product/Coor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1-builder/target/classes/builder/CircleBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-builder/target/classes/builder/CircleBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1-builder/target/classes/director/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-builder/target/classes/director/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1-builder/target/classes/product/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-builder/target/classes/product/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1-builder/target/classes/product/Coor.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-builder/target/classes/product/Coor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1-prototype/3.1-prototype.iml" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/04-prototype.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1-prototype/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1-prototype/src/main/java/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/src/main/java/Prototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1-prototype/src/main/java/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/src/main/java/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1-prototype/src/test/java/test/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/src/test/java/test/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1-prototype/src/test/java/test/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/src/test/java/test/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1-prototype/target/classes/Prototype.class" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/target/classes/Prototype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1-prototype/target/classes/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/target/classes/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1-prototype/target/test-classes/test/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/target/test-classes/test/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1-prototype/target/test-classes/test/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/04-prototype/target/test-classes/test/TestDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/1.1-factory-method/target/" />
@@ -9,6 +73,11 @@
     <ignored path="$PROJECT_DIR$/1.3-builder/target/" />
     <ignored path="$PROJECT_DIR$/2.1-builder/target/" />
     <ignored path="$PROJECT_DIR$/3.1-prototype/target/" />
+    <ignored path="$PROJECT_DIR$/5.1-adapter/target/" />
+    <ignored path="$PROJECT_DIR$/01-factory-method/target/" />
+    <ignored path="$PROJECT_DIR$/03-builder/target/" />
+    <ignored path="$PROJECT_DIR$/04-prototype/target/" />
+    <ignored path="$PROJECT_DIR$/06-adapter/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,64 +104,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.1-factory-method/src/main/java/TestDemo.java">
+        <entry file="file://$PROJECT_DIR$/01-factory-method/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-abstract-factory/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-builder/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-prototype/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.1-prototype/src/main/java/TestDemo.java">
+        <entry file="file://$PROJECT_DIR$/06-adapter/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.1-prototype/src/main/java/Prototype.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.1-builder/src/main/java/builder/CircleBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.1-builder/src/main/java/product/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="198">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -143,6 +194,21 @@
         <option value="$PROJECT_DIR$/3.1-prototype/src/main/java/TestDemo.java" />
         <option value="$PROJECT_DIR$/3.1-prototype/src/main/java/Prototype.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/5.1-adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/5.1-adapter/src/main/java/adapter/Earphone.java" />
+        <option value="$PROJECT_DIR$/5.1-adapter/src/main/java/earphone/Earphone.java" />
+        <option value="$PROJECT_DIR$/5.1-adapter/src/main/java/earphone/NormalLine.java" />
+        <option value="$PROJECT_DIR$/5.1-adapter/src/main/java/earphone/MicroLine.java" />
+        <option value="$PROJECT_DIR$/5.1-adapter/src/main/java/TestDemo.java" />
+        <option value="$PROJECT_DIR$/5.1-adapter/src/main/java/adapter/Adapter1.java" />
+        <option value="$PROJECT_DIR$/5.1-adapter/src/main/java/adapter/Adapter2.java" />
+        <option value="$PROJECT_DIR$/5.1-adapter/src/main/java/earphone/NewEarphone.java" />
+        <option value="$PROJECT_DIR$/5.1-adapter/src/main/java/earphone/OldEarphone.java" />
+        <option value="$PROJECT_DIR$/01-factory-method/pom.xml" />
+        <option value="$PROJECT_DIR$/02-abstract-factory/pom.xml" />
+        <option value="$PROJECT_DIR$/03-builder/pom.xml" />
+        <option value="$PROJECT_DIR$/04-prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/06-adapter/pom.xml" />
       </list>
     </option>
   </component>
@@ -172,11 +238,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="3.1-prototype" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="04-prototype" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="3.1-prototype" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="04-prototype" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -197,35 +263,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3.1-prototype" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3.1-prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3.1-prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3.1-prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -233,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554176915838" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554185152976" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/2.1-builder" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
@@ -255,17 +293,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDemo (4)">
+  <component name="RunManager" selected="Application.TestDemo (5)">
     <configuration name="TestDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestDemo" />
-      <module name="1.2-abstract-factory" />
+      <module name="02-abstract-factory" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TestDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="director.TestDemo" />
-      <module name="2.1-builder" />
+      <module name="03-builder" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="director.*" />
@@ -278,7 +316,7 @@
     </configuration>
     <configuration name="TestDemo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.TestDemo" />
-      <module name="3.1-prototype" />
+      <module name="04-prototype" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.*" />
@@ -291,25 +329,72 @@
     </configuration>
     <configuration name="TestDemo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestDemo" />
-      <module name="3.1-prototype" />
+      <module name="04-prototype" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDemo (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestDemo" />
-      <module name="1.1-factory-method" />
+      <module name="06-adapter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="01-factory-method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="01-factory-method" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDemo (5)" />
         <item itemvalue="Application.TestDemo (4)" />
         <item itemvalue="Application.TestDemo (3)" />
         <item itemvalue="Application.TestDemo (2)" />
         <item itemvalue="Application.TestDemo (1)" />
-        <item itemvalue="Application.TestDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -326,18 +411,17 @@
       <workItem from="1554022994640" duration="5576000" />
       <workItem from="1554028762951" duration="279000" />
       <workItem from="1554078645233" duration="4439000" />
-      <workItem from="1554164253659" duration="5353000" />
+      <workItem from="1554164253659" duration="8327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15647000" />
+    <option name="totallyTimeSpent" value="18621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25160944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24195279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -347,7 +431,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32912844" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.29816514" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32798165" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -378,13 +462,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/3.1-prototype/src/test/java/test/TestDemo.java</url>
+          <url>file://$PROJECT_DIR$/04-prototype/src/test/java/test/TestDemo.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/3.1-prototype/src/main/java/TestDemo.java</url>
+          <url>file://$PROJECT_DIR$/04-prototype/src/main/java/TestDemo.java</url>
           <line>4</line>
           <properties />
           <option name="timeStamp" value="2" />
@@ -393,42 +477,28 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.1-factory-method/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.1-factory-method/src/main/java/product/SquareShape.java">
+    <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/product/SquareShape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.1-factory-method/src/main/java/product/Shape.java">
+    <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/product/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.1-factory-method/src/main/java/factory/Factory.java">
+    <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/factory/Factory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.1-factory-method/src/main/java/factory/CircleFactory.java">
+    <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/factory/CircleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
@@ -438,7 +508,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.1-factory-method/src/main/java/factory/SquareFactory.java">
+    <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/factory/SquareFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
@@ -448,49 +518,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.1-factory-method/src/main/java/product/CircleShape.java">
+    <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/product/CircleShape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/Shape.java">
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/src/main/java/product/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/Element.java">
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/src/main/java/product/Element.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/CircleShape.java">
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/src/main/java/product/CircleShape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/SquareShape.java">
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/src/main/java/product/SquareShape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/SquareElement.java">
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/src/main/java/product/SquareElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/src/main/java/factory/CircleFactory.java">
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/src/main/java/factory/CircleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
@@ -500,7 +570,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/src/main/java/factory/SquareFactory.java">
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/src/main/java/factory/SquareFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
@@ -510,7 +580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/src/main/java/factory/Factory.java">
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/src/main/java/factory/Factory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
@@ -520,14 +590,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/src/main/java/product/CircleElement.java">
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/src/main/java/product/CircleElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.2-abstract-factory/src/main/java/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/src/main/java/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
@@ -537,41 +607,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.1-builder/src/main/java/product/Coor.java">
+    <entry file="file://$PROJECT_DIR$/03-builder/src/main/java/product/Coor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.1-builder/2.1-builder.iml">
+    <entry file="file://$PROJECT_DIR$/03-builder/03-builder.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.1-builder/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.1-builder/src/main/java/director/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/03-builder/src/main/java/director/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.1-prototype/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -589,14 +645,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1-prototype/src/test/java/test/Person.java">
+    <entry file="file://$PROJECT_DIR$/04-prototype/src/test/java/test/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1-prototype/src/test/java/test/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/04-prototype/src/test/java/test/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
@@ -606,14 +662,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.1-builder/src/main/java/product/Circle.java">
+    <entry file="file://$PROJECT_DIR$/03-builder/src/main/java/product/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.1-builder/src/main/java/builder/CircleBuilder.java">
+    <entry file="file://$PROJECT_DIR$/03-builder/src/main/java/builder/CircleBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
@@ -623,37 +679,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.1-factory-method/src/main/java/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.1-prototype/src/main/java/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/04-prototype/src/main/java/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1-prototype/src/main/java/Prototype.java">
+    <entry file="file://$PROJECT_DIR$/04-prototype/src/main/java/Prototype.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01-factory-method/src/main/java/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <first_editor relative-caret-position="311">
+            <caret line="51" column="52" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-adapter/src/main/java/adapter/Adapter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-adapter/src/main/java/earphone/Earphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-adapter/src/main/java/earphone/NewEarphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-adapter/src/main/java/earphone/OldEarphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-adapter/src/main/java/adapter/Adapter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-adapter/src/main/java/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-factory-method/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-abstract-factory/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-builder/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-prototype/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-adapter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

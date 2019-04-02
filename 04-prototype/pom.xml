@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dulinan</groupId>
-    <artifactId>1.2-abstract-factory</artifactId>
+    <artifactId>04-prototype</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

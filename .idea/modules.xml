@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1.1-factory-method/1.1-factory-method.iml" filepath="$PROJECT_DIR$/1.1-factory-method/1.1-factory-method.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1.2-abstract-factory/1.2-abstract-factory.iml" filepath="$PROJECT_DIR$/1.2-abstract-factory/1.2-abstract-factory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2.1-builder/2.1-builder.iml" filepath="$PROJECT_DIR$/2.1-builder/2.1-builder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3.1-prototype/3.1-prototype.iml" filepath="$PROJECT_DIR$/3.1-prototype/3.1-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-factory-method/01-factory-method.iml" filepath="$PROJECT_DIR$/01-factory-method/01-factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-abstract-factory/02-abstract-factory.iml" filepath="$PROJECT_DIR$/02-abstract-factory/02-abstract-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-builder/03-builder.iml" filepath="$PROJECT_DIR$/03-builder/03-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-prototype/04-prototype.iml" filepath="$PROJECT_DIR$/04-prototype/04-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-adapter/06-adapter.iml" filepath="$PROJECT_DIR$/06-adapter/06-adapter.iml" />
     </modules>
   </component>
 </project>

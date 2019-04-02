@@ -7,17 +7,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="1.1-factory-method" />
-        <module name="1.2-abstract-factory" />
-        <module name="2.1-builder" />
-        <module name="3.1-prototype" />
+        <module name="01-factory-method" />
+        <module name="03-builder" />
+        <module name="04-prototype" />
+        <module name="06-adapter" />
+      </profile>
+      <profile name="Annotation profile for 1.2-abstract-factory" enabled="true">
+        <sourceOutputDir name="../1.2-abstract-factory/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../1.2-abstract-factory/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="02-abstract-factory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="1.1-factory-method" target="1.8" />
-      <module name="1.2-abstract-factory" target="1.8" />
-      <module name="2.1-builder" target="1.8" />
-      <module name="3.1-prototype" target="1.8" />
+      <module name="01-factory-method" target="1.8" />
+      <module name="02-abstract-factory" target="1.8" />
+      <module name="03-builder" target="1.8" />
+      <module name="04-prototype" target="1.8" />
+      <module name="06-adapter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
